@@ -434,5 +434,14 @@ footer p {
     .container h1 {
         margin-top: 20px;
     }
+    
+    .hi h1 {
+        width: 100%;
+    }    
+    
+    .box {
+        height: 60vh;
+    }
 
+    
 }
