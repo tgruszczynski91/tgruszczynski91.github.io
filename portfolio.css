@@ -194,9 +194,9 @@ nav a:hover {
     grid-template-areas: 
     "box box";
     grid-column-gap: 20px;
-    grid-row-gap: 60px;
+    grid-row-gap: 20px;
     padding: 20px;
-    margin-bottom: 60px;
+    margin-bottom: 20px;
 }
 
 .box {
