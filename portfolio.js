@@ -8,11 +8,3 @@ toTheTop.addEventListener('click', function () {
         behavior: 'smooth'
     })
 })
-
-function chuj(e) {
-    const x = 3;
-    console.log(this)
-    console.log(x)
-}
-
-chuj()
